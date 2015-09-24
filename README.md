@@ -10,4 +10,4 @@ README
 
 ===========================
 ###演示动画
-![](https://github.com/LUOrenjia/CSS-Cotocat/blob/master/Cotocat.gif)
+![](https://github.com/LUOrenjia/CSS-Cotocat/blob/master/Octocat.gif)
